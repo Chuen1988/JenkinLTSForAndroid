@@ -1,5 +1,3 @@
-## Readme - Guides & Installation for Jenkins LTS automate build Android .apk
-
 ## Description
 How to setup Jenkins LTS, automate build in MAC OS to release Android .apk, upload Android .apk to Diawi link in SVN (Subversion) with email notification.
 
